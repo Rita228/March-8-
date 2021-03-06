@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+img {
+
+Width:400px;
+Height:400px;
+border:5px double yellow ;
+   }
+a{
+    border: 5px double purple;
+}
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center; 
+
+}
+h1{
+  border: 5px groove blue;  
+}
